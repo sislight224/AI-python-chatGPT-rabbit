@@ -1,0 +1,39 @@
+version: '3'
+
+services:
+  rabbitmq:
+    image: "rabbitmq"
+    ports:
+      # Exposing management interface for RabbitMQ (useful for debugging and monitoring)
+      - "15672:15672"
+      # Exposing the default RabbitMQ AMQP port for communication.
+      # Unity should connect to RabbitMQ using localhost on this port.
+      - "5672:5672"
+
+  tiktok:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: python -u tik_tok_app.py
+    environment:
+      ENV_1: value1
+      ENV_2: value2
+      ENV_3: value3
+      TIK_TOK_ID: ${TIK_TOK_ID}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    depends_on:
+      - rabbitmq
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: python -u worker_app.py
+    environment:
+      ENV_1: value1
+      ENV_2: value2
+      ENV_3: value3
+      TIK_TOK_ID: ${TIK_TOK_ID}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    depends_on:
+      - rabbitmq

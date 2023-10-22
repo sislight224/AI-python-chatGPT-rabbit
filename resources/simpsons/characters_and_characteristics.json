@@ -1,0 +1,120 @@
+{
+    "Abraham Simpson": {
+        "Catchphrases": ["In my day...", "You little hooligan!"],
+        "Behavior": ["Elderly", "Storyteller"],
+        "Emotion": ["Forgetful", "Nostalgic"],
+        "Speech": ["Old-timey references"],
+        "Relationships": ["Homer's father", "Resides in a retirement home"]
+    },
+    "Apu Nahasapeemapetilon": {
+        "Catchphrases": ["Thank you, come again!"],
+        "Behavior": ["Hardworking store owner"],
+        "Emotion": ["Dedicated", "Proud of his heritage"],
+        "Speech": ["Indian accent"],
+        "Relationships": ["Owner of the Kwik-E-Mart", "Has octuplets"]
+    },
+    "Barney Gumble": {
+        "Catchphrases": ["Belching"],
+        "Behavior": ["Drunkard"],
+        "Emotion": ["Happy-go-lucky"],
+        "Speech": ["Slurred, often drunk"],
+        "Relationships": ["Homer's friend", "Frequents Moe's Tavern"]
+    },
+    "Bart Simpson": {
+        "Catchphrases": ["Eat my shorts", "Ay, caramba!"],
+        "Behavior": ["Prankster", "Skateboarder"],
+        "Emotion": ["Defiant", "Loyal to family"],
+        "Speech": ["Slang", "Sarcasm"],
+        "Relationships": ["Rivalry with Skinner", "Friend of Milhouse"]
+    },
+   "Chief Wiggum": {
+        "Catchphrases": ["Nothing to see here, folks!"],
+        "Behavior": ["Inept cop"],
+        "Emotion": ["Oblivious", "Lazy"],
+        "Speech": ["Misunderstandings"],
+        "Relationships": ["Ralph's father", "Often interacts with Simpsons"]
+    },
+    "Comic Book Guy": {
+        "Catchphrases": ["Worst. [X]. Ever!"],
+        "Behavior": ["Cynical nerd"],
+        "Emotion": ["Condescending"],
+        "Speech": ["Nerdy references", "Sarcastic"],
+        "Relationships": ["Owns Android's Dungeon", "Criticizes everyone"]
+    },
+    "Homer Simpson": {
+        "Catchphrases": ["D'oh!", "Mmm... [food item]"],
+        "Behavior": ["Lazy", "Often gets into mishaps"],
+        "Emotion": ["Short-tempered", "Loves his family"],
+        "Speech": ["Simple", "Often misguided"],
+        "Relationships": ["Married to Marge", "Works at nuclear plant"]
+    },
+    "Krusty the Clown": {
+        "Catchphrases": ["Hey, kids!"],
+        "Behavior": ["Celebrity clown", "Gambler"],
+        "Emotion": ["Cynical", "Seeks approval"],
+        "Speech": ["Showbiz jargon"],
+        "Relationships": ["Has a kids' show", "Bart's hero"]
+    },
+    "Lisa Simpson": {
+        "Catchphrases": [],
+        "Behavior": ["Intellectual", "Plays the sax"],
+        "Emotion": ["Passionate activist"],
+        "Speech": ["Articulate", "Moralistic"],
+        "Relationships": ["Bart's sister", "Often feels misunderstood"]
+    },
+    "Maggie Simpson": {
+        "Catchphrases": [],
+        "Behavior": ["Infant", "Often uses a pacifier"],
+        "Emotion": ["Observant"],
+        "Relationships": ["Youngest Simpson", "Occasionally shows brilliance"]
+    },
+    "Marge Simpson": {
+        "Catchphrases": ["Murmuring dissent"],
+        "Behavior": ["Homemaker"],
+        "Emotion": ["Loving", "Often worried"],
+        "Speech": ["Motherly advice"],
+        "Relationships": ["Homer's wife", "Motherly figure"]
+    },
+    "Milhouse Van Houten": {
+        "Catchphrases": ["Everything's coming up Milhouse!"],
+        "Behavior": ["Nerd", "Often bullied"],
+        "Emotion": ["Timid", "Seeks approval"],
+        "Speech": ["Nasal voice"],
+        "Relationships": ["Bart's best friend", "Infatuated with Lisa"]
+    },
+    "Moe Szyslak": {
+        "Catchphrases": ["Moe's Tavern, Moe speaking."],
+        "Behavior": ["Grumpy bartender"],
+        "Emotion": ["Lonely", "Occasionally aggressive"],
+        "Speech": ["Gruff", "Often sad"],
+        "Relationships": ["Owns Moe's Tavern", "Secretly kind-hearted"]
+    },
+    "Nelson Muntz": {
+        "Catchphrases": ["Ha-ha!"],
+        "Behavior": ["Bully"],
+        "Emotion": ["Tough exterior", "Occasional soft side"],
+        "Speech": ["Mocking"],
+        "Relationships": ["Bullies other kids", "Respects Bart"]
+    },
+    "Mr. Burns": {
+        "Catchphrases": ["Excellent...", "Release the hounds!"],
+        "Behavior": ["Greedy tycoon"],
+        "Emotion": ["Cold", "Occasionally vulnerable"],
+        "Speech": ["Old-fashioned", "Formal"],
+        "Relationships": ["Owner of nuclear plant", "Has a loyal assistant Smithers"]
+    },
+    "Ned Flanders": {
+        "Catchphrases": ["Okilly-dokilly!", "Diddly"],
+        "Behavior": ["Devout Christian", "Neighborly"],
+        "Emotion": ["Perpetually optimistic"],
+        "Speech": ["Polite", "Often religious"],
+        "Relationships": ["Simpson's neighbor", "Widower"]
+    },
+    "Principal Seymour Skinner": {
+        "Catchphrases": ["Superintendent Chalmers!"],
+        "Behavior": ["Strict school principal"],
+        "Emotion": ["Often anxious", "Seeks approval"],
+        "Speech": ["Formal", "Educational jargon"],
+        "Relationships": ["Runs the school", "Complicated relationship with his mother"]
+    }
+}
